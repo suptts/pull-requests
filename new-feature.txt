@@ -1,0 +1,3 @@
+ไฟล์นี้ถูกสร้างขึ้นมาใน feature-1 branch 
+
+One more change in feature-1 branch
